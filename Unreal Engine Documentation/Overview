@@ -42,3 +42,4 @@ Build Unreal Engine projects and automate various build tasks for a single machi
 ### Select Documentation Pages
 
 * [Create an Automation Project](https://docs.unrealengine.com/5.1/en-US/create-an-automation-project-in-unreal-engine/)
+* [Static Code Analysis](https://docs.unrealengine.com/5.1/en-US/static-code-analysis-in-unreal-engine/)
