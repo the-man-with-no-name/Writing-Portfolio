@@ -29,13 +29,9 @@ Common interface to access the functionality of various backend online services 
 
 Programming with Unreal Engine specific libraries in C++.
 
-### Select Documentation Pages
-
 ## Developer Tools
 
 Set up your pipeline for development with Unreal Engine.
-
-### Select Documentation Pages
 
 ## Build & Automation Tools
 
