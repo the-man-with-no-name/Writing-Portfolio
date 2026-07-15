@@ -1,6 +1,6 @@
 # Writing-Portfolio
 
-A portfolio of selected writing examples including:
+A portfolio of selected writing and tutorial examples including:
 
   1) Journal Articles published in international, peer-reviewed mathematics and physics journals
   2) Book chapter for American Mathematical Society book "Analytic Trends in Mathematical Physics"
